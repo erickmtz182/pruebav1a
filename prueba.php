@@ -94,7 +94,7 @@ class Prueba{
 $p = new Prueba();
 //$p->doFibonacci();
 echo $p->doFactorial(0);
-//echo $p->buscarPalabra("hola mundo desde mexico","mundo");
+echo $p->buscarPalabra("hola mundo desde mexico","mundo");
 echo $p->buscarPalabra2("hola mundo desde mexico","mundo");
 echo $p->buscarLetra("hola mundo desde mexico","e");
 echo $p->buscarPalabraCadena("hola mundo desde mexico mun","mun");
