@@ -1,6 +1,6 @@
 <?php
 
-class Fibonacci{
+class Fibonacci2{
 
     
     private $factorial = 1;
