@@ -1,0 +1,20 @@
+[1mdiff --git a/prueba.php b/prueba.php[m
+[1mindex 87993dc..06a68cc 100644[m
+[1m--- a/prueba.php[m
+[1m+++ b/prueba.php[m
+[36m@@ -94,10 +94,10 @@[m [mclass Prueba{[m
+ $p = new Prueba();[m
+ //$p->doFibonacci();[m
+ echo $p->doFactorial(0);[m
+[31m-echo $p->buscarPalabra("hola mundo desde mexico","mundo");[m
+[31m-echo $p->buscarPalabra2("hola mundo desde mexico","mundo");[m
+[31m-echo $p->buscarLetra("hola mundo desde mexico","e");[m
+[31m-echo $p->buscarPalabraCadena("hola mundo desde mexico mun","mun");[m
+[32m+[m[32m//echo $p->buscarPalabra("hola mundo desde mexico","mundo");[m
+[32m+[m[32m//echo $p->buscarPalabra2("hola mundo desde mexico","mundo");[m
+[32m+[m[32m//echo $p->buscarLetra("hola mundo desde mexico","e");[m
+[32m+[m[32m//echo $p->buscarPalabraCadena("hola mundo desde mexico mun","mun");[m
+ [m
+ [m
+ ?>[m
+\ No newline at end of file[m
